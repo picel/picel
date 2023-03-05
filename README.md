@@ -5,7 +5,7 @@
 # PiCel - SangBeom Kim
 ## About Me
 
-I'm SangBeom Kim, a software engineer from South Korea. I'm interested in web development, especially backend development. I'm a Student at [Changwon National University](https://www.changwon.ac.kr/).
+I'm SangBeom Kim, a software engineer from South Korea. I'm interested in web development, especially backend development.<br> I'm a Student at [Changwon National University](https://www.changwon.ac.kr/).
 
 ---
 ### My Skills
